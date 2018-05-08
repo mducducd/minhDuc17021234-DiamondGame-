@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(214): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\duc\documents\visual studio 2015\projects\1312\213\main.cpp(247): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  213.vcxproj -> C:\Users\DUC\Documents\Visual Studio 2015\Projects\1312\Debug\213.exe
+  213.vcxproj -> C:\Users\DUC\Documents\Visual Studio 2015\Projects\1312\Debug\213.pdb (Full PDB)
